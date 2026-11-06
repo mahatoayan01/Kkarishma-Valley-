@@ -171,7 +171,7 @@ export default function HomePage() {
             <div className="relative">
               <div className="relative rounded-3xl overflow-hidden shadow-2xl border-4 border-white bg-stone-200 aspect-4/3">
                 <img
-                  src="https://images.unsplash.com/photo-1544161515-4ab6ce6db874?auto=format&fit=crop&w=1200&q=80"
+                  src="https://images.unsplash.com/photo-1537047902294-62a40c20a6ae?auto=format&fit=crop&w=1200&q=80"
                   alt="Karishma Valley Garden Thatched Huts"
                   className="w-full h-full object-cover"
                 />

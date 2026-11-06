@@ -27,7 +27,7 @@ export const GALLERY_ITEMS = [
     title: "Spacious Valley Grounds",
     category: "Ambience",
     caption: "Expansive open-air grounds with breezy evenings, tree shades, and ample space for kids.",
-    image: "https://images.unsplash.com/photo-1544161515-4ab6ce6db874?auto=format&fit=crop&w=1200&q=80",
+    image: "https://images.unsplash.com/photo-1537047902294-62a40c20a6ae?auto=format&fit=crop&w=1200&q=80",
     fallbackText: "Open Green Valley Grounds & Atmosphere"
   },
   {
